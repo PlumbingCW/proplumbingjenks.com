@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://proplumbingjenks.com/sitemap.xml
